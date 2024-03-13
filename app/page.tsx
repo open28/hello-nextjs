@@ -15,11 +15,11 @@ export default function Page() {
           <p
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to Acme.</strong> This is the example for the{' '}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+            <strong>Welcome to my love.</strong> This is a gift for {' '}
+            <a href="" className="text-green-500">
+              mengtinghe
             </a>
-            , brought to you by Vercel.
+            , I love you.
           </p>
           <Link
             href="/login"
@@ -31,7 +31,8 @@ export default function Page() {
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
           {/* Add Hero Images Here */}
           <Image
-            src="/hero-desktop.png"
+            // src="/hero-desktop.png"
+            src="/lily-flower.jpg"
             width={1000}
             height={760}
             alt="Screenshots of the dashboard project showing desktop version"
