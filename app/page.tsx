@@ -15,11 +15,10 @@ export default function Page() {
           <p
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to my love.</strong> This is a gift for {' '}
+            <strong>Welcome to my Blog.</strong> {' '}
             <a href="" className="text-green-500">
-              mengtinghe
+              William
             </a>
-            , I love you.
           </p>
           <Link
             href="/login"

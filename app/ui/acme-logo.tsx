@@ -9,7 +9,7 @@ export default function AcmeLogo() {
     >
       {/* <GlobeAltIcon className="h-12 w-12 rotate-[15deg]" /> */}
       <HomeIcon className="h-12 w-12 text-white-500" />
-      <p className="text-[44px] text-green-500">Love Family</p>
+      <p className="text-[30px] text-green-500">Blog Family</p>
     </div>
   );
 }
